@@ -85,8 +85,8 @@ public class VentanaPokedex extends javax.swing.JFrame {
             label2.setText("NO HAY DATOS");
             label3.setText("NO HAY DATOS");
             label4.setText("NO HAY DATOS");
-             label5.setText("NO HAY DATOS");
-              label6.setText("NO HAY DATOS");
+             label7.setText("NO HAY DATOS");
+              label8.setText("NO HAY DATOS");
         }
     }
     @Override
@@ -356,7 +356,7 @@ public class VentanaPokedex extends javax.swing.JFrame {
                 .addGap(22, 22, 22))
         );
 
-        getContentPane().add(JPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 480, 435));
+        getContentPane().add(JPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 520, 435));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
